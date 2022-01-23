@@ -23,7 +23,7 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
-
+El codigo recorre un arreglo unidimensional y suma todos los valores que tiene, y presenta en pantalla el valor total de la suma de todos los valores que contiene el arreglo.
 #### Fin respuesta
 
 ***
